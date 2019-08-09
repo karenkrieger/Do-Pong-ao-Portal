@@ -1,15 +1,15 @@
-﻿De Pong ao Portal
+Do Pong ao Portal
 03/07/2019
 Release Version: 1.0
 -----------------------------------------------------------------------------
 
 
-Obrigado por adquirir De Pong ao Portal!
+Obrigado por adquirir Do Pong ao Portal!
 Caso algum problema contate os seguintes emails de suporte:  patfadel8@gmail.com | melissasmatos@gmail.com | moragas.haykal13@gmail.com
 -----------------------------------------------------------------------------
 Apresentação
 -----------------------------------------------------------------------------
-De Pong ao Portal é um jogo na qual a falta de destreza e agilidade pode ser fatal! 
+Do Pong ao Portal é um jogo na qual a falta de destreza e agilidade pode ser fatal! 
 Com portais invisível que se deslocam pelo mapa,
 a bola pode sumir e aparecer em outro local. 
 Então fique esperto e bom jogo!
@@ -22,7 +22,7 @@ Mínimo:
         SO: Microsoft® Windows® 7 / 8 / 10
         Processador: 1.2GHz
         Memória: 1 GB de RAM
-        Armazenamento: ? MB de espaço disponível
+        Armazenamento: 16 MB de espaço disponível
 
 
 -----------------------------------------------------------------------------
@@ -45,5 +45,5 @@ Créditos
 -----------------------------------------------------------------------------
 Artista:                 Patrícia Fadel | patfadel8@gmail.com
 Artista:                 Melissa Matos | melissasmatos@gmail.com
-Programador:                Karen Krieger | karen.krieger.derraik@gmail.com
+Programadora:            Karen Krieger | karen.krieger.derraik@gmail.com
 Designer:                Haykal Moragas | moragas.haykal13@gmail.com
